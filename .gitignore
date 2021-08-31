@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/Domaın/bin/Debug/net5.0
+/Domaın/obj
+/Presentation/bin/Debug/net5.0
+/Presentation/obj
+/TestProject/bin/Debug/net5.0
+/TestProject/obj
